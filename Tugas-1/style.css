@@ -1,0 +1,12 @@
+#header img{
+    width: 50px; 
+    height: 55px; 
+    border-radius: 10px; 
+    margin-left: 10px;
+}
+.artikel img{
+    margin-left: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}

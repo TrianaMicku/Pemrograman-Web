@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color :#fff;
+}
+.logo{
+    width: 45px;
+    height: auto;
+    margin-left: 20px
+}
+.img1{
+    width: 1330px;
+    height: 100%;
+}
+.navbar-nav li{
+    margin-left: 80px;
+}
+.container-fluid{
+    padding: 10px;
+}
+.box1 h2, p1{
+    color: white;
+}
+.box2 h2, p{
+    color: black;
+}
+.footer{
+    color: black;
+}
+.text{
+    color: grey;
+}
+.logoFooter{
+    width: 15%;
+    height: auto;
+    margin-left: 20px;
+}
