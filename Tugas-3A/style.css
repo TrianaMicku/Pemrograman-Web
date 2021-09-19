@@ -18,10 +18,14 @@ body{
 .container-fluid{
     padding: 10px;
 }
-.box1 h2, p1{
-    color: white;
+.konten{
+    width: 80%; 
+    height: 300px; 
+    margin-left: 60px;
+    
+    border-radius: 21px 21px 0 0; 
 }
-.box2 h2, p{
+.box1 h2, p{
     color: black;
 }
 .footer{
