@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: white;
+}
+.header{
+    width: 1110px;
+    height: auto;
+    padding-top: 3px;
+}
+.header a{
+    color: grey;
+    text-decoration: none;
+}
+.header-logo{
+    font-size: 35px;
+    padding-left: 145px;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.search{
+    width: 5%;
+    height: 100%;
+    margin-right: 5px;
+}
+.line{
+    border-top: 1px solid #808080;
+    margin-top: 15px;
+    width: 1110px;
+    border-color: lavender;
+}
+#nav a{
+    color: grey;
+    margin-left: 23px;
+}
+.jumbotron h1{
+    font-size: 50px;
+    color:white;
+    font-style: italic;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.jumbotron p{
+    margin-top: 1px!important;
+    margin-bottom: 1px!important;
+}
+.jumbotron a{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.card-body{
+    padding-top: 10px;
+}
+.card h6{
+    color:#007bff;
+    font-weight: bold;
+}
+.post1{
+    color: black;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.card p{
+    color: #000;
+}
+.card-img-right{
+    width: 200px;
+    height: 250px;
+}
+.main1{
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+    font-style: italic;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif; 
+}
+.line1{
+    border-top: 1px solid #808080;
+    width: 700px;
+    border-color: lavender;
+    margin-top: 10px;
+}
+.head1{
+    color:black;
+    font-size: 40px;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif; 
+    margin-top: 30px;
+}
+.head2{
+    color: black;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif; 
+    font-size: 30px;
+}
+.code{
+    color: black;
+}
+.head3{
+    color: black;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif; 
+    font-size: 30px;
+}
+.side{
+    padding: 15px;
+}
+.side-abt{
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif; 
+    font-style: italic;
+}
+.page a{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.down{
+    color: gray;
+}
