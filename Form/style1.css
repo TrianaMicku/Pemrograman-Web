@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+.header{
+    width: 1126px;
+    height: auto;
+    padding-top: 3px;
+}
+.imgs{
+    width: 10%;
+    height: auto;
+    margin-right: 100px;
+}
+.header p{
+    font-size: 15px;
+    line-height: 0;
+    font-weight: bold;
+    padding-left: 280px;
+}
+.navwar{
+    background-color:#0082c6;
+    font-weight: bold;
+    width: 1126px;
+    height: auto;
+}
+.liwar{
+    font-weight: bold;
+    border-width: 0.5px;
+    border-style: solid;
+}
+.btn{
+    background-color:#0082c6;
+}
+.bg img{
+    width: 1126px;
+    height: auto;
+}
+.side{
+    padding: 15px;
+}
+.side-abt{
+    font-weight: bold;
+}
+.line1{
+    border-top: 1px solid #808080;
+    width: 810px;
+    border-color: #e6e6fa;
+    margin-top: 10px;
+}
+.footer{
+    text-align: left;
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #ed3237;
+}
+.down{
+    color:white;
+}
