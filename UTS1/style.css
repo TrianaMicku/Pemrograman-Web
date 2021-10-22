@@ -1,0 +1,15 @@
+.jumbotron{
+    padding: 0rem;
+    padding-top: 60px;
+    background-color: #ffe189;
+}
+#photos{
+    background-color: #ffe189;
+}
+#contact{
+    background-color: #ffe189;
+}
+
+section{
+    padding-top: 5rem;
+}
